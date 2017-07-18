@@ -1,0 +1,3 @@
+rootProject.name = 'testCli'
+
+include ':app'
